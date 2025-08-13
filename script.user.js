@@ -5,6 +5,7 @@
 // @description  Autosave your GeoGuessr games in a local folder.
 // @author       Jan Justi
 // @website      https://github.com/janjusti/geoguessr-autosaver
+// @license      GPL-3.0
 // @grant        GM_xmlhttpRequest
 // @require      https://unpkg.com/axios@1.6.7/dist/axios.min.js
 // ==/UserScript==
